@@ -1,4 +1,4 @@
-# HYRS-2022-Project - Lung Cancer Prediction with Machine Learning
+# Lung Cancer Prediction with Machine Learning - HYRS-2022-Project
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/USERNAME/REPO/blob/main/lung_cancer_prediction.ipynb)
 
